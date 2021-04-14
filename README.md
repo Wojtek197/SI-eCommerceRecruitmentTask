@@ -1,7 +1,7 @@
 # SI-eCommerceRecruitmentTask
 Recruitment task made for the company SI-eCommerce
 
-Website made on the basis of a mock-up from Adobe Photoshop.
+Responsive website made on the basis of a mock-up from Adobe Photoshop.
 Techniques and technologies used:
 - CSS preprocessor - LESS
 - Flexbox and CSS Grid
